@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Rudra from Faridabad ,Haryana<br><br>- 🔭 I’m currently a student at JCBUST(YMCA).<br>- 📚 I'm currently learning DSA in CPP.<br>- ⚡ In my free time I watch movies and listem to music.</p>
+<p align="left">I'm Vibudh Gupta from Faridabad ,Haryana<br><br>- 🔭 I’m currently a student at JCBUST(YMCA).<br>- 📚 I'm currently learning DSA in CPP.<br>- ⚡ In my free time I watch movies , listem to music and play cricket.</p>
 
 ###
 
@@ -66,7 +66,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RudraPratap24&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=VIBUDHGUPTA&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
