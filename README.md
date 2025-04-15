@@ -6,16 +6,16 @@
 
 <div align="center">
  
-  <a href = "https://www.linkedin.com/in/rudra-pratap-singh-99650425a/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="85" height="25" alt="linkedin logo"  /> </a>
-  <a href = "https://www.instagram.com/rudra_pratap_252/">   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="85" height="25" alt="instagram logo"  /> </a>
-<a href = "mailto:rudrapratap24apr@gmail.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="25" alt="gmail logo"  /> </a>
+  <a href = "https://www.linkedin.com/in/vibudh-gupta-8a53b6315/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="85" height="25" alt="linkedin logo"  /> </a>
+  <a href = "https://www.instagram.com/g.vibudh/">   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="85" height="25" alt="instagram logo"  /> </a>
+<a href = "mailto:vibudhg732004@gmail.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="25" alt="gmail logo"  /> </a>
   
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RudraPratap24.RudraPratap24&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VIBUDHGUPTA.VIBUDHGUPTA&"  />
 </div>
 
 ###
