@@ -1,72 +1,104 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Data+Analyst+%7C+Security-Focused+Developer;Building+Intelligent+%26+Impact-Driven+Systems;Focused+on+AI%2C+Data%2C+Finance+%26+Scalable+Engineering" />
+</p>
 
-###
+---
 
-<div align="center">
- 
-  <a href = "https://www.linkedin.com/in/vibudh-gupta-8a53b6315/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="85" height="25" alt="linkedin logo"  /> </a>
-  <a href = "https://www.instagram.com/g.vibudh/">   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="85" height="25" alt="instagram logo"  /> </a>
-<a href = "mailto:vibudhg732004@gmail.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="25" alt="gmail logo"  /> </a>
-  
-</div>
+## 👋 Hi, I'm Vibudh Gupta  
 
-###
+🎓 **B.Tech (IT) | Class of 2026**  
+🚀 **AI • Data Analytics • Software Security**  
+📍 India | 🌍 Open to Global Opportunities  
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=VIBUDHGUPTA.VIBUDHGUPTA&"  />
-</div>
+I am a **highly focused, impact-oriented engineer** with strong foundations in **AI-powered systems, data analytics, and security-aware software development**.  
+My work philosophy is simple: **build systems that are intelligent, measurable, and production-ready**.
 
-###
+I don’t just complete projects — I **optimize outcomes**.
 
-<h1 align="center">Hey there !! 👋</h1>
+---
 
-###
+## 🧠 Core Strengths
 
-<h3 align="left">👩‍💻  About Me</h3>
+- 🤖 **AI-First Engineering** — Using LLM-powered APIs to automate complex decision workflows  
+- 🛡️ **Software Supply-Chain Security** — Vulnerability intelligence, dependency scanning, CVE simplification  
+- 📊 **Data Analytics & Storytelling** — Turning raw data into business and financial insights  
+- 📈 **Finance & Risk Thinking** — Investment evaluation, risk simulations, decision modeling  
+- ⚙️ **System Automation** — Fast, scalable, conflict-free system design  
 
-###
+---
 
-<p align="left">I'm Vibudh Gupta from Faridabad ,Haryana<br><br>- 🔭 I’m currently a student at JCBUST(YMCA).<br>- 📚 I'm currently learning DSA in CPP.<br>- ⚡ In my free time I watch movies , listem to music and play cricket.</p>
+## 🔥 Featured Projects (Impact-Oriented)
 
-###
+### 🛡️ AI-Powered Open-Source Vulnerability Analyzer
+- Detected **100% of known vulnerable dependencies** using **OSV-backed intelligence**
+- Achieved **~60% faster developer remediation** via **Gemini API–powered AI**
+- Converted complex CVEs into **clear, actionable security insights**
 
-<h3 align="left">🛠 Language and tools</h3>
+### 📅 Schedulo – Automated Timetable Management System
+- Generated **conflict-free schedules in <5 seconds**
+- Reduced faculty planning workload by **90%**
+- Improved scheduling efficiency by **65%** using intelligent validations
 
-###
+### 🧬 Zernike Moments–Based Biometric Classification
+- Achieved **75% higher accuracy** than baseline models
+- Optimized processing on **2000+ biometric images**
+- Improved robustness while reducing computation time by **18%**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-</div>
+---
 
-###
+## 🛠️ Tech Arsenal
 
-<h3 align="left">🔥   My Stats :</h3>
+**Languages:** Python, C/C++, SQL  
+**AI / Data:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Streamlit  
+**BI & Analytics:** Excel, Power BI, Tableau  
+**Databases:** MySQL, SQLite  
+**Tools:** Git, VS Code, PyCharm, Azure, n8n  
+**APIs:** OSV API, Gemini API, OpenAI API  
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=VIBUDHGUPTA&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+## 📊 GitHub Performance
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VIBUDHGUPTA&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VIBUDHGUPTA&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VIBUDHGUPTA&theme=onestar&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🎯 Achievements & Leadership
+- 🥉 **Top 30 / 180+ teams** — HackIndia 2024  
+- 🏅 **4th Place / 200+ teams** — HackArcode 2024  
+- 📜 Industry simulations — **Deloitte** & **Goldman Sachs**  
+- 🏓 Vice-Captain — University Table Tennis Team  
+
+---
+
+## 💼 Career Focus (FAANG / Quant / Data Roles)
+
+- AI-driven developer tools  
+- Data analytics & financial modeling  
+- Secure, scalable system design  
+- High-impact internships & global roles  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/VIBUDHGUPTA"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/vibudh-gupta-163327363"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:vibudhgupta732004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+> **“Strong engineering is not about writing more code — it’s about delivering clarity, security, and measurable impact.”**
